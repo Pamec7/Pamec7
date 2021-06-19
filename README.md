@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi everyone, I'm Pamela Cruz c: ✨👋
 
-<!--
-**Pamec7/Pamec7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://visitor-badge.glitch.me/badge?page_id=Pamec7.Pamec7)
 
-Here are some ideas to get you started:
+I'm currently study Software Engineering at .[EPN](https://www.epn.edu.ec)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm working in a lot project at EPN's Software Club.
+
+<img width="30" height="30" src="https://avatars.githubusercontent.com/u/84605041?s=200&v=4"/>
+ 
+🌱 I’m currently learning ...
+
+    -CSS    
+    -Java Script
+
+    
