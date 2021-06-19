@@ -12,5 +12,9 @@ I'm working in a lot project at EPN's Software Club.
 
     -CSS    
     -Java Script
-
     
+📫  
+<span>
+    <a href="https://www.instagram.com/pame_9395_">
+    <img align="left" alt="Pamela Cruz| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
