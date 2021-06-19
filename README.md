@@ -15,8 +15,10 @@ I'm working in a lot project at EPN's Software Club.
     
 📫 Follow me in: 
 
--Instagram
 <span>
     <a href="https://www.instagram.com/pame_9395_">
     <img align="left" alt="Pamela Cruz| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+   <a href="https://www.facebook.com/johanita.cruz.50">
+    <img align="left" alt="Pamela Cruz| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   </a>
